@@ -1,1 +1,7 @@
+
 change password
+
+class Register:
+   def register
+      print("change password")
+
