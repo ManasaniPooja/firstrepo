@@ -1,3 +1,5 @@
 class Register:
    def register
       print("change password")
+   def RegisterTest:
+      print("make chnages")
